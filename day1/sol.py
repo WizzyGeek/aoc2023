@@ -15,5 +15,8 @@ def get_num(l):
 def ans(s):
     return sum(get_num(l) for l in s)
 
-with open("input.txt", "r") as fp:
+import time
+n = time.time()
+with open("HxMf.txt", "r") as fp:
     print(ans(fp.readlines()))
+print(time.time() - n)
