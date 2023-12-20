@@ -1,0 +1,169 @@
+digraph {
+	bc [label=bc color=green shape=square]
+	hr [label=hr color=green shape=square]
+	sn [label=sn color=green shape=square]
+	df [label=df color=green shape=square]
+	lp [label=lp color=green shape=square]
+	lf [label=lf color=green shape=square]
+	fv [label=fv color=blue shape=square]
+	gd [label=gd color=green shape=square]
+	jt [label=jt color=green shape=square]
+	xf [label=xf color=green shape=square]
+	nf [label=nf color=green shape=square]
+	dl [label=dl color=green shape=square]
+	sq [label=sq color=blue shape=square]
+	vb [label=vb color=green shape=square]
+	zq [label=zq color=green shape=square]
+	fk [label=fk color=green shape=square]
+	gj [label=gj color=green shape=square]
+	jx [label=jx color=green shape=square]
+	pq [label=pq color=green shape=square]
+	dn [label=dn color=blue shape=square]
+	ln [label=ln color=green shape=square]
+	fz [label=fz color=green shape=square]
+	fs [label=fs color=green shape=square]
+	dm [label=dm color=green shape=square]
+	ds [label=ds color=green shape=square]
+	kk [label=kk color=blue shape=square]
+	tg [label=tg color=green shape=square]
+	vt [label=vt color=blue shape=square]
+	fl [label=fl color=green shape=square]
+	vk [label=vk color=blue shape=square]
+	jd [label=jd color=green shape=square]
+	tv [label=tv color=green shape=square]
+	sb [label=sb color=green shape=square]
+	kb [label=kb color=blue shape=square]
+	pp [label=pp color=green shape=square]
+	pn [label=pn color=green shape=square]
+	zc [label=zc color=green shape=square]
+	vm [label=vm color=blue shape=square]
+	rn [label=rn color=green shape=square]
+	gr [label=gr color=green shape=square]
+	sj [label=sj color=green shape=square]
+	zl [label=zl color=green shape=square]
+	lz [label=lz color=green shape=square]
+	jh [label=jh color=green shape=square]
+	pf [label=pf color=green shape=square]
+	kq [label=kq color=green shape=square]
+	ph [label=ph color=green shape=square]
+	nc [label=nc color=green shape=square]
+	kg [label=kg color=green shape=square]
+	hf [label=hf color=green shape=square]
+	nn [label=nn color=green shape=square]
+	gf [label=gf color=green shape=square]
+	lg [label=lg color=green shape=square]
+	broadcaster [label=broadcaster color=white shape=square]
+	gt [label=gt color=green shape=square]
+	pv [label=pv color=green shape=square]
+	xr [label=xr color=blue shape=square]
+	md [label=md color=green shape=square]
+	bc -> ph
+	hr -> zq
+	sn -> sj
+	df -> dn
+	df -> hf
+	lp -> dm
+	lf -> sn
+	lf -> vk
+	fv -> sq
+	gd -> vm
+	gd -> gr
+	jt -> vm
+	jt -> lz
+	xf -> vk
+	nf -> lp
+	nf -> kb
+	dl -> nn
+	sq -> rx
+	vb -> vm
+	vb -> lg
+	zq -> kb
+	zq -> fl
+	fk -> fz
+	gj -> pq
+	jx -> jh
+	pq -> kb
+	pq -> nf
+	dn -> kg
+	dn -> vt
+	dn -> tg
+	dn -> fs
+	dn -> pn
+	dn -> jx
+	ln -> dn
+	ln -> fs
+	fz -> vm
+	fz -> jt
+	fs -> df
+	dm -> kb
+	dm -> hr
+	ds -> kb
+	kk -> sq
+	tg -> tv
+	vt -> sq
+	fl -> zl
+	fl -> kb
+	vk -> bc
+	vk -> sj
+	vk -> jd
+	vk -> lf
+	vk -> xr
+	vk -> sn
+	jd -> pp
+	tv -> dn
+	tv -> pn
+	sb -> gf
+	sb -> vk
+	kb -> kk
+	kb -> gj
+	kb -> gt
+	kb -> hr
+	kb -> lp
+	pp -> vk
+	pp -> bc
+	pn -> pf
+	zc -> vm
+	vm -> dl
+	vm -> fk
+	vm -> nn
+	vm -> fv
+	vm -> gd
+	vm -> lg
+	rn -> dn
+	gr -> vb
+	gr -> vm
+	sj -> kq
+	zl -> kb
+	zl -> ds
+	lz -> vm
+	lz -> zc
+	jh -> dn
+	jh -> ln
+	pf -> dn
+	pf -> jx
+	kq -> sb
+	kq -> vk
+	ph -> md
+	ph -> vk
+	nc -> gj
+	nc -> kb
+	kg -> tg
+	kg -> dn
+	hf -> dn
+	hf -> rn
+	nn -> fk
+	gf -> jd
+	gf -> vk
+	lg -> pv
+	broadcaster -> gd
+	broadcaster -> kg
+	broadcaster -> gt
+	broadcaster -> lf
+	gt -> nc
+	gt -> kb
+	pv -> dl
+	pv -> vm
+	xr -> sq
+	md -> vk
+	md -> xf
+}
