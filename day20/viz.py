@@ -165,3 +165,7 @@ dot.render(directory="day20")
 # >>> d
 # 3797
 # take the lcm of a,b,c,d
+#
+# This works coz, the central node's pulse is inverted and finally
+# all the inverted counter outputs are AND'd, giving a loop of
+# multiplicative length, here fewest is asked, so LCM
