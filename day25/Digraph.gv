@@ -1,0 +1,81 @@
+digraph {
+	jqt [label=jqt]
+	rhn [label=rhn]
+	jqt -> rhn
+	xhk [label=xhk]
+	jqt -> xhk
+	nvd [label=nvd]
+	jqt -> nvd
+	rsh [label=rsh]
+	lsr [label=lsr]
+	rsh -> lsr
+	frs [label=frs]
+	rsh -> frs
+	pzl [label=pzl]
+	rsh -> pzl
+	xhk [label=xhk]
+	hfx [label=hfx]
+	xhk -> hfx
+	cmg [label=cmg]
+	qnr [label=qnr]
+	cmg -> qnr
+	nvd [label=nvd]
+	cmg -> nvd
+	lhk [label=lhk]
+	cmg -> lhk
+	bvb [label=bvb]
+	cmg -> bvb
+	rhn [label=rhn]
+	xhk [label=xhk]
+	rhn -> xhk
+	hfx [label=hfx]
+	rhn -> hfx
+	bvb [label=bvb]
+	rhn -> bvb
+	bvb [label=bvb]
+	xhk [label=xhk]
+	bvb -> xhk
+	hfx [label=hfx]
+	bvb -> hfx
+	pzl [label=pzl]
+	hfx [label=hfx]
+	pzl -> hfx
+	lsr [label=lsr]
+	pzl -> lsr
+	nvd [label=nvd]
+	pzl -> nvd
+	qnr [label=qnr]
+	nvd [label=nvd]
+	qnr -> nvd
+	ntq [label=ntq]
+	jqt [label=jqt]
+	ntq -> jqt
+	xhk [label=xhk]
+	ntq -> xhk
+	hfx [label=hfx]
+	ntq -> hfx
+	bvb [label=bvb]
+	ntq -> bvb
+	nvd [label=nvd]
+	lhk [label=lhk]
+	nvd -> lhk
+	lsr [label=lsr]
+	lhk [label=lhk]
+	lsr -> lhk
+	rzs [label=rzs]
+	cmg [label=cmg]
+	rzs -> cmg
+	qnr [label=qnr]
+	rzs -> qnr
+	rsh [label=rsh]
+	rzs -> rsh
+	lsr [label=lsr]
+	rzs -> lsr
+	frs [label=frs]
+	lsr [label=lsr]
+	frs -> lsr
+	qnr [label=qnr]
+	frs -> qnr
+	lhk [label=lhk]
+	frs -> lhk
+}
